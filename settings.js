@@ -2,23 +2,12 @@
 //If you want to recode, reupload
 //or copy the codes/script,
 //pls give credit
-//no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
-//Thank you to Lord Buddha, Family and Myself
+//Thank you to Allah, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
 //codes copy kar ke apne script me dal rhe
-//hai to, description me xeon ka yt channel
-// ka link paste kr dena as a cradit or github 
-//repo me bhi tag kardena baki jo
-//bhi karna hai apki marzi, thank you!🦄
-//════════════════════════════//
-//If you recode and uploading on your channel
-//or copy pasting the codes in ur script, 
-//i give permission to do as long as you
-//put Xeons youtube channel link in the video
-//description and tag me on githuh repo, 
-//thank you🦄
+//hai to cradit 
+// baki jo karna hai apki marzi, thank you!🦄
 //════════════════════════════//
 
 const fs = require('fs')
@@ -54,23 +43,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['923229931076'] //ur owner number
+global.ownername = "ɪᴛx_ɪʙʀᴀʜɪᴍ" //ur owner name
+global.ytname = "None" //ur yt chanel name
+global.socialm = "Instgram: its_ibrahim_2004" //ur github or insta name
+global.location = "Pakistan, KPK, Abbottabad" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213']
-global.ownertag = '916909137213' //ur tag number
-global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
+global.owner = ['923229931076']
+global.ownertag = '923229931076' //ur tag number
+global.botname = 'ɪᴛx_ɪʙʀᴀʜɪᴍ Bot' //ur bot name
+global.linkz = "none" //your theme url which will be displayed on whatsapp
+global.websitex = "none" //ur website to be displayed
+global.botscript = 'Private' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Dream Guy Xeon" //ur sticker watermark author
+global.packname = "ɪᴛx_ɪʙʀᴀʜɪᴍ Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "ɪᴛx_ɪʙʀᴀʜɪᴍ" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +68,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['93229931076'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -122,16 +111,16 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 12,
-    monayawal: 1000
+    free: Infinity,
+    monayawal: 10
 }
    global.rpg = {
-   darahawal: 100,
-   besiawal: 15,
-   goldawal: 10,
-   emeraldawal: 5,
-   umpanawal: 5,
-   potionawal: 1
+   darahawal: 100000,
+   besiawal: 150000,
+   goldawal: 100000,
+   emeraldawal: 50000,
+   umpanawal: 5000,
+   potionawal: 10000
 }
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
