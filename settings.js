@@ -112,14 +112,14 @@ global.mess = {
     global.limitawal = {
     premium: "Infinity",
     free: Infinity,
-    monayawal: 10
+    monayawal: 1000000000
 }
    global.rpg = {
    darahawal: 100000,
    besiawal: 150000,
    goldawal: 100000,
    emeraldawal: 50000,
-   umpanawal: 5000,
+   umpanawal: 5000000000000,
    potionawal: 10000
 }
 global.thumb = fs.readFileSync('./XeonMedia/theme/cheemspic.jpg')
